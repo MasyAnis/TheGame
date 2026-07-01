@@ -6,3 +6,7 @@ mari
 kita
 main 
 sama
+
+menang
+sama
+sama
